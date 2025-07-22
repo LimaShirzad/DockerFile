@@ -14,6 +14,10 @@ public class HelloController {
         return "Hello from docker";
 
     }
+    public  void TestCi()
+    {
+                return  "Hello i make khbla da err for practice to poha shm :)";
+    }
 
 
 
