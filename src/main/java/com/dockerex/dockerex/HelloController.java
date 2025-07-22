@@ -14,9 +14,9 @@ public class HelloController {
         return "Hello from docker";
 
     }
-    public  void TestCi()
+    public  String TestCi()
     {
-                return  "Hello i make khbla da err for practice to poha shm :)";
+                return  "Hello i make khbla da err for practice to poha shm :)"
     }
 
 
